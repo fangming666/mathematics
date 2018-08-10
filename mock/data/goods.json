@@ -1,0 +1,52 @@
+{
+  "goods": [
+    {
+      "grade": 7,
+      "grade_label": "7年级",
+      "goods": [
+        {
+          "name": "半年",
+          "good_id": 2,
+          "price": 120
+        },
+        {
+          "name": "一个月",
+          "good_id": 2,
+          "price": 30
+        }
+      ]
+    },
+    {
+      "grade": 8,
+      "grade_label": "8年级",
+      "goods": [
+        {
+          "name": "半年",
+          "good_id": 2,
+          "price": 240
+        },
+        {
+          "name": "一个月",
+          "good_id": 2,
+          "price": 60
+        }
+      ]
+    },
+    {
+      "grade": 9,
+      "grade_label": "9年级",
+      "goods": [
+        {
+          "name": "半年",
+          "good_id": 2,
+          "price": 360
+        },
+        {
+          "name": "一个月",
+          "good_id": 2,
+          "price": 90
+        }
+      ]
+    }
+  ]
+}

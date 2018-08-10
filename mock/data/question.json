@@ -1,0 +1,214 @@
+{
+  "question": [
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 1,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 2,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "15"
+        },
+        {
+          "option": "B",
+          "content": "30"
+        },
+        {
+          "option": "C",
+          "content": "45"
+        },
+        {
+          "option": "D",
+          "content": "60"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 3,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 4,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 5,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 6,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "B",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    },
+    {
+      "paper_id": 11,
+      "question_id": 11,
+      "question_num": 7,
+      "question_content": "<img src='./../../../static/imgs/question-bg@2x.png' />",
+      "answer": "A",
+      "my_answer": "",
+      "answers": [
+        {
+          "option": "A",
+          "content": "对角相等"
+        },
+        {
+          "option": "B",
+          "content": "四边相等"
+        },
+        {
+          "option": "C",
+          "content": "对角线互相平分"
+        },
+        {
+          "option": "D",
+          "content": "四角相等"
+        },
+        {
+          "option": "E",
+          "content": "我不会做"
+        }
+      ]
+    }
+  ]
+}
